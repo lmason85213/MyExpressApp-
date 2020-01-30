@@ -1,0 +1,13 @@
+extends layout
+
+block content
+  h1= title
+  hr
+  p It is now :  #{date}
+  hr 
+  p This is a link to the list of users 
+  a(href='/users/list') Users
+  hr 
+  p This is a link to the home page 
+  a(href='/index') Home
+

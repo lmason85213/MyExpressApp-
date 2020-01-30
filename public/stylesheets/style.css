@@ -1,0 +1,17 @@
+body {
+  padding: 50px;
+  font: 14px 
+}
+
+a {
+  color: #00B7FF;
+}
+
+p { 
+  font-family: cursive;
+  color: purple; 
+}
+h1 {
+  font-family: fantasy;
+  color: green;
+}
